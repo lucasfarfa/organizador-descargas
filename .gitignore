@@ -1,0 +1,4 @@
+organizador.log*
+organizador.lock
+__pycache__/
+.venv/
